@@ -19,6 +19,7 @@ public class Factorial {
             }
             System.out.println("The factorial of the " +n+ " is " +fact);
         }
+        sc.close();
 
         
 
