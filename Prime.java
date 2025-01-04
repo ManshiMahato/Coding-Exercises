@@ -24,6 +24,7 @@ public class Prime {
             }
             System.out.println(n+ " is Prime.");
         }
+        sc.close();
     }
     
 }
