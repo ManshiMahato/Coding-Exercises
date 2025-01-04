@@ -21,6 +21,7 @@ public class Prime1 {
         else{
             System.out.println(n+ " is not Prime.");
         }
+        sc.close();
     }
     
 }
